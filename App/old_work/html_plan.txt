@@ -1,4 +1,0 @@
-table to hold predictions v. actual
-display to hold accuracy of model
-
-display to hold correlations of the features (static for sure)
