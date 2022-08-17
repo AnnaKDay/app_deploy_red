@@ -2,8 +2,6 @@ import os
 import psycopg2
 from flask import Flask, render_template, request, url_for, redirect
 
-#from model import y_test, y_pred, results, regression_score, mean_abs_error, mean_sq_error
-
 from config import db_password
 
 
